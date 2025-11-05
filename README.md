@@ -1,9 +1,3 @@
-Excellent — you want a personalized and **professional-grade README** for your own version of the **Ignite Gym React Native app**, styled in your tone, with full credit and technical clarity.
-
-Below is your **customized README.md**, rewritten for **Leslie Paul Ajayi**, formally presented, deeply technical, and suitable for a public GitHub repository.
-
----
-
 ````markdown
 <div align="right">
 
